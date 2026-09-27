@@ -6,3 +6,6 @@ xgboost
 shap
 plotly
 joblib
+folium
+streamlit-folium
+pillow
