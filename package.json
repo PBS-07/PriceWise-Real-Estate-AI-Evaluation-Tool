@@ -1,0 +1,20 @@
+{
+  "name": "pricewise",
+  "version": "1.0.0",
+  "description": "PriceWise — Real Estate AI Evaluation Tool for Bengaluru property price predictions.",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "train": "python train_models_on_user_data.py"
+  },
+  "keywords": [
+    "pricewise",
+    "real-estate",
+    "bengaluru",
+    "machine-learning",
+    "streamlit",
+    "price-prediction"
+  ],
+  "author": "PriceWise Team",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+{"Linear Regression": {"RMSE (\u20b9 Lakhs)": 85.46, "MAE (\u20b9 Lakhs)": 35.7, "R2 Score": 0.5956}, "Random Forest": {"RMSE (\u20b9 Lakhs)": 85.34, "MAE (\u20b9 Lakhs)": 30.4, "R2 Score": 0.5967}, "XGBoost": {"RMSE (\u20b9 Lakhs)": 86.96, "MAE (\u20b9 Lakhs)": 30.76, "R2 Score": 0.5812}}
